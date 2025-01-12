@@ -18,3 +18,4 @@
 |        | ✅ 섹션4. 스프링 컨테이너와 스프링 빈            | String Container, Spring Bean, Bean Definition, ApplicationContext |
 | 1월 10일 | ✅ 섹션5. 싱글톤 컨테이너                   | Stateless, @Configuration                                          |
 | 1월 11일 | ✅ 섹션6. 컴포넌트 스캔                    | @Component                                                         |
+| 1월 12일 | ✅ 섹션7. 의존관계 자동 주입                 | lombok                                                             |
