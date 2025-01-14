@@ -20,3 +20,5 @@
 | 1월 11일 | ✅ 섹션7. 컴포넌트 스캔                    | @Component                                                         |
 | 1월 12일 | ✅ 섹션8. 의존관계 자동 주입                 | lombok                                                             |
 | 1월 13일 | ✅ 섹션9. 빈 생명주기 콜백                  | Bean initMethod, destoryMethod, @PostConstruct, @PreDestory        |
+|        | ✅ 섹션10. 빈 스코프                     | Provider, ObjectFactory, ObjectProvider, Web Scope                 |
+|        | ✅ 섹션11. 다음으로                      |                                                                    |
